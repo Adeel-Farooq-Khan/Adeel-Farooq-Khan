@@ -52,18 +52,4 @@
   <!-- Add more tools and languages with similar badges -->
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeel-farooq-khan&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeel-farooq-khan&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeel-farooq-khan&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=adeel-farooq-khan&bg_color=0D1117&color=58A6FF&line=FF5C8D&point=58A6FF&hide_border=true" alt="GitHub Activity Graph">
-</p>
