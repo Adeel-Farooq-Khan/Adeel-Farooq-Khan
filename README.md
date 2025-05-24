@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adeel Farooq Khan</h1>
-<h3 align="center">A Passionate Data Scientist from Pakistan 🚀</h3>
+<h3 align="center">A Passionate Software Engineer from Pakistan 🚀</h3>
 
 <p align="center">
   <a href="https://github.com/adeel-farooq-khan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=440&lines=Data+Scientist+%7C+ML+Engineer;Lifelong+Learner;Innovating+One+Step+at+a+Time!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=440&lines=Software+Engineer+%7C+AI+Engineer;Lifelong+Learner;Innovating+One+Step+at+a+Time!" alt="Typing SVG">
   </a>
 </p>
 
